@@ -1,0 +1,2 @@
+What happens to the layout when you resize the screen to less than 550 px. How do you think that works?
+The content and styling get smaller according to the pre-fixed values attached to them depending on the screen size. This works because there are different sets of values attached to the content and these changes happen when the criteria of a certain screen size is met. So for this example when screen size is less than 550px, then the values assigned for that screen size and smaller is used instead.
